@@ -1,6 +1,6 @@
 # Fashion-store
 
-Hello all, I am Kanduri Jayanth Sri Ram from Indian Institute of Information Technology, Sri City. This is my project submission for 
+Hello all, I am Harish Mullagura from Indian Institute of Information Technology, Sri City. This is my project submission for 
 Future ready talent Internship.
 
 #### Industry: 
